@@ -1,6 +1,3 @@
-package jp.co.yayoi_kk.android.snapvoucher.views;
-
-import android.content.Context;
 import android.hardware.SensorManager;
 import android.util.AttributeSet;
 import android.util.Log;
